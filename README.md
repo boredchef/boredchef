@@ -1,6 +1,6 @@
 ## hi there! 👋
 
-🤔 i'm currently working on [my quiz game](github.com/boredchef/verity-or-not)!
+🤔 i'm currently working on [my quiz game](https://github.com/boredchef/verity-or-not)!
 
 🔭 something i am interested in is how [electricity](https://www.ibiblio.org/kuphaldt/electricCircuits/DC/DC_1.html) actually works? 
 
